@@ -28,13 +28,13 @@
 
 - Ruby on Rails 개발자 시니어 0명 (스트라입스의 희망사항)
 
-- Ruby on Rails 개발자 주니어 1명 (실무 1년차 미만 개발자)
-- Ruby on Rails 개발자 준 시니어 1명 (ROR로 실무 3년 이상 개발자)
+- Ruby on Rails 개발자 주니어 0명 (실무 1년차 미만 개발자)
+- Ruby on Rails 개발자 준 시니어 0명 (ROR로 실무 3년 이상 개발자)
 - Android 3~5년차 개발자 1명(구글 스토어 앱 등록/운영 경험자)
 
 --
 
-## 스트라입스는 기술 스택
+## 스트라입스 기술 스택
 
 - Ruby on Rails
 - MariaDB
