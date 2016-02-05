@@ -51,7 +51,7 @@
 
 ## 스트라입스의 개발문화
 
-![](http://picpaste.com/pics/_27A9262-min-1MP8k7wC.1454591362.jpg)
+![](https://cloud.githubusercontent.com/assets/15605046/12836315/0364dd98-cbfb-11e5-8b47-1fe6361103f5.jpg)
 
 남성 패션 브랜드 스트라입스에서 세상의 모든 패션 고자들을 구출할 소프트웨어 엔지니어를 모집합니다! 
 
